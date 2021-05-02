@@ -4,4 +4,6 @@ The course was luckily being sold at an 80% discount, and I've been in sore need
 
 Though I will be crafting this app as I follow along with the udemy instructor, I know myself well enough to predict that I'll be putting my own spin on the project wherever I can.  I suspect based on his initial walkthrough of his final product that he will use Bootstrap for all his CSS, which will also be an exciting review for me (as I've stubbornly only written custom CSS for nearly two years!)
 
+*Update from the assessment midway through section three: he's providing his own custom CSS for us to use, so no Bootstrap review during the course for me.  I'll make sure to use Bootstrap in my next practice project.*
+
 Sidenote: I was only about half an hour into the review portion of this course when I went ahead and purchased courses on Angular, Vue, and "Clean Code" (ie best practices) from the same instructor.  Watch this space, because I'm about to go buckwild practicing new skills!
