@@ -7,3 +7,8 @@ Though I will be crafting this app as I follow along with the udemy instructor, 
 *Update from the assessment midway through section three: he's providing his own custom CSS for us to use, so no Bootstrap review during the course for me.  I'll make sure to use Bootstrap in my next practice project.*
 
 Sidenote: I was only about half an hour into the review portion of this course when I went ahead and purchased courses on Angular, Vue, and "Clean Code" (ie best practices) from the same instructor.  Watch this space, because I'm about to go buckwild practicing new skills!
+
+
+#### Final Note Upon Completing Section 5
+
+WeLL I've sure been missing out on half the fun stuff React can do!  I'm also SO glad I was able to get a course this valuable for only $20!  I was disappointed there wasn't more time spent on styling and that the CSS files were provided, but on the other hand there was so much React to review and learn that getting into the CSS would have muddied the message.  Plus, Section 6 is literally named "Styling React Components" so I'm probably good.
